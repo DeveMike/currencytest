@@ -6,6 +6,6 @@ Tests are in `server/tests`:
 - Part 4: `currencyAPI.test.ts`
 
 ## Run tests
-cd server
-npm install
-npx vitest run
+- cd server
+- npm install
+- npx vitest run
