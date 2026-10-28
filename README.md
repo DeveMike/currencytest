@@ -9,3 +9,9 @@ Tests are in `server/tests`:
 - cd server
 - npm install
 - npx vitest run
+
+## Coverage report
+If you want a coverage report, run:
+
+- npm run coverage
+- npx open-cli coverage/index.html
